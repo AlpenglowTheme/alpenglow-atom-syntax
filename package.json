@@ -2,7 +2,7 @@
   "name": "alpenglow-atom-syntax",
   "theme": "syntax",
   "author": "Kai Cataldo <kaicataldo@gmail.com>",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A port of the Alpenglow syntax theme for Atom",
   "keywords": [
     "syntax",
