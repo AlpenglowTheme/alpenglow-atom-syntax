@@ -3,7 +3,7 @@
   "theme": "syntax",
   "author": "Kai Cataldo <kaicataldo@gmail.com>",
   "version": "0.0.1",
-  "description": "A port of the Alpenglow syntax theme for Atom",
+  "description": "Spiritual successor to @yabatadesign's Afterglow theme for Atom",
   "keywords": [
     "syntax",
     "theme",
