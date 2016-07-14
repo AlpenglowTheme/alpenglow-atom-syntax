@@ -2,7 +2,7 @@
   "name": "alpenglow-atom-syntax",
   "theme": "syntax",
   "author": "Kai Cataldo <kaicataldo@gmail.com>",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Spiritual successor to @yabatadesign's Afterglow theme for Atom",
   "keywords": [
     "syntax",
